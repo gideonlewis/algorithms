@@ -6,7 +6,7 @@ The main factors to evaluate an algorithm include: execution time, storage space
 Các yếu tố chính để đánh giá một thuật toán bao gồm: thời gian thực thi, không gian lưu trữ, công sức thực hiện của lập trình viên.
 
 <div align="center">
-    <img src="images/big-o-notation"></img>
+    <img src="images/big-o-notation.png"></img>
 </div>
 
 ## Big O notation?
