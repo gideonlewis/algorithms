@@ -1,27 +1,40 @@
-# data-structures-and-algorithms
-<p>My project is a repository on GitHub focused on data structures and algorithms implemented using the Go programming language. The repository provides example source code and programming exercises for users to practice and enhance their programming skills and gain a deeper understanding of fundamental concepts in this field. The source code and exercises are organized by specific topics and include detailed instructions to make it easy for users to learn and apply to their own projects.</p>
+# Data Structures & Algorithms
+<p>This is a repository on GitHub focused on data structures and algorithms implemented using the Go programming language. The repository provides example source code and programming exercises for users to practice and enhance their programming skills and gain a deeper understanding of fundamental concepts in this field. The source code and exercises are organized by specific topics and include detailed instructions to make it easy for users to learn and apply to their own projects.</p>
 
-## 1. Data Structures
+## Data Structures
 
 - [Data-structure](https://github.com/solar-network/client) - A TypeScript Client for Solar Core
-### Array
-Có 2 loại array:
+### 1. Array
+Array được chia thành 2 loại chính theo tính chất:
 
-Statis Array
+- Statis Array: mảng có kích thước có định khi được khai báo và không thể thay đổi trong quá trình chạy, khi tạo cần xác định số lượng phần tử phù hợp.
 
-Dynamic Array
+- Dynamic Array: mảng có khả năng thay đổi kích thước trong quá trình chạy, khi không đủ dung lượng để thêm phần tử mới, nó tự thay đổi kích thước phù hợp.
 
+Có hai loại Array phổ biến theo cấu trúc (chiều):
+
+- Mảng một chiều: là cấu trúc dữ liệu tuyến tính mà các phần tử được sắp xếp thành một hàng hoặc cột duy nhất, mỗi phần tử được đánh dấu và truy xuất bởi index.
+<img src="images/one-dimensional-array.png"></img>
+- Mảng hai chiều: là cấu trúc dữ liệu bảng gồm hàng và cột, mỗi phần tử trong mảng được truy xuất bởi 2 index, một của index hàng và một index của cột.
+
+Mỗi thành phần trong mảng có thể là number, string, object, ...
 - [See details](./data-structure/README.md)
 
-### Linked list
-### Stack
-### Queue
-### Tree
-### Graph
-### Hash table
-### Heap, Trie, ...
+### 2. Linked List
+Có 3 loại linked list phổ biến
 
-## 2. Algorithms
+Singly Linked List
+Double Linked List
+Circular Linked List
+
+### 3. Stack
+### 4. Queue
+### 5. Tree
+### 6. Graph
+### 7. Hash table
+### 8. Heap, Trie, ...
+
+## Algorithms
 
 ### Search & Binary Search
 ### Sorting & Sorting Algorithms
@@ -31,7 +44,7 @@ Dynamic Array
 ### Dynamic Programming
 ### Tree Algorithms
 
-## 3. Analysis of time and space complexity
+## Analysis of time and space complexity
 
 ### Time complexity O(1), O(log n), O(n), O(n log n), O(n^2), etc.
 ### Space and memory complexity
