@@ -25,3 +25,30 @@
 - [Contributing](./CONTRIBUTING.md)
 - [Code of conduct](./CODE_OF_CONDUCT.md)
 - [Security](./SECURITY.md)
+
+
+## 1. Data Structures
+
+### Array
+### Linked list
+### Stack
+### Queue
+### Tree
+### Graph
+### Hash table
+### Heap, Trie, ...
+
+## 2. Algorithms
+
+### Search & Binary Search
+### Sorting & Sorting Algorithms
+### Insertion, Deletion & Modification in Data Structures
+### Recursive & Backtracking
+### Greedy Algorithms
+### Dynamic Programming
+### Tree Algorithms
+
+## 3. Analysis of time and space complexity
+
+### Time complexity O(1), O(log n), O(n), O(n log n), O(n^2), etc.
+### Space and memory complexity
