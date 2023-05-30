@@ -13,9 +13,13 @@ Có hai loại Array phổ biến theo cấu trúc (chiều):
 
 - **One-dimensional Array**: là cấu trúc dữ liệu tuyến tính mà các phần tử được sắp xếp thành một hàng hoặc cột duy nhất, mỗi phần tử được đánh dấu và truy xuất bởi index.
 <div align="center">
-    <img src="images/one-dimensional-array.png" style="width:200px">
+    <img src="images/one-dimensional-array.png" style="width:400px; margin-bottom:100px">
 </div>
+
 - **Two-dimensional Array**: là cấu trúc dữ liệu bảng gồm hàng và cột, mỗi phần tử trong mảng được truy xuất bởi 2 index, một của index hàng và một index của cột.
+<div align="center">
+    <img src="images/two-dimensional-array.jpeg" style="width:400px; margin-bottom:100px">
+</div>
 
 Mỗi thành phần trong mảng có thể là number, string, object, ...
 - [See details](./data-structure/README.md)
