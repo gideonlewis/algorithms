@@ -11,6 +11,9 @@ graph TD;
 ​`​`​`
 
 ### 1. Mảng (Array)
+<div align="center">
+    <img src="images/array.png" style="width:400px">
+</div>
 ### 2. Danh sách liên kết (Linked List)
 ### 3. Ngăn xếp (Stack)
 ### 4. Hàng đợi (Queue)
