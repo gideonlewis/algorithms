@@ -37,11 +37,11 @@ This is a repository on GitHub that I put a lot of effort into, focusing on data
 
 ## Algorithms
 **Algorithms** s a well-defined set of sequential execution instructions that accept a value or set of values as input and produce the output(s) needed to solve a problem. <i>Features of the algorithm: </i>:
-- Tính xác định
-- Tính dừng
-- Tính hiệu quả
-- Tính phổ biến
-- Tính độc lập
+- Determined
+- Consistency
+- Efficiency
+- Popular
+- Isolation
 
 ### List of algorithim types
 `E` - Easy, `M` - Medium, `H` - Hard
@@ -49,9 +49,29 @@ This is a repository on GitHub that I put a lot of effort into, focusing on data
 * `M` [Recursive](http://)
 * `E` [Backtracking](http://)
 * `M` [Searching](http://)
+    * `E` [Linear Search]()
+    * `E` [Sentinel Search]()
+    * `E` [Binary Search]()
+    * `M` [Meta Binary Search | One-Sided Binary Search]()
+    * `M` [Terany Search]()
+    * `M` [Jump Search]()
+    * `M` [Fibonaci Search]()
+    * `H` [Interpolation Search]()
+    * `H` [Exponential Search]()
+    * `H` [The Ubiquitous Binary Search]()
 * `M` [Sorting](http://)
+    * `E` [Selection Sort]()
+    * `E` [Bubble Sort]()
+    * `E` [Insertion Sort]()
+    * `M` [Merge Sort]()
+    * `M` [Quick Sort]()
+    * `M` [Heap Sort]()
+    * `M` [Counting Sort]()
+    * `H` [Radix Sort]()
+    * `H` [Bucket Sort]()
+    * `H` [Bingo Sort]()
 * `M` [Hashing](http://)
 * `M` [Divide and Conquer](http://)
-* `M` [Greedy](http://)
-* `M` [Dynamic Programming](http://)
-* `M` [Randomized](http://)
+* `H` [Greedy](http://)
+* `H` [Dynamic Programming](http://)
+* `H` [Randomized](http://)
