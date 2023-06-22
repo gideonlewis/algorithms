@@ -1,52 +1,21 @@
-# Data Structures & Algorithms
-This is a repository on GitHub focused on data structures and algorithms implemented using the Go programming language. The repository provides example source code and programming exercises for users to practice and enhance their programming skills and gain a deeper understanding of fundamental concepts in this field. The source code and exercises are organized by specific topics and include detailed instructions to make it easy for users to learn and apply to their own projects.
+# Cấu trúc dữ liệu & giải thuật trong Golang
+Đây là kho lưu trữ trên GitHub mà tôi bỏ rất nhiều tâm huyết, tập trung vào cấu trúc dữ liệu và thuật toán mà tôi đã được học từ nhiều nguồn khác nhau và đúc kết lại từ góc nhìn cá nhân. Kho lưu trữ cung cấp mã nguồn ví dụ bằng Golang và các bài tập lập trình để người dùng thực hành và nâng cao kỹ năng lập trình của họ cũng như hiểu sâu hơn về các khái niệm cơ bản trong lĩnh vực này. Mã nguồn và bài tập được sắp xếp theo từng chủ đề cụ thể và có hướng dẫn chi tiết giúp người dùng dễ dàng học và áp dụng vào dự án của mình.
 
-## Data Structures
-### 1. Array
-Array is divided into 2 main types by properties:
+<hr>
 
-- **Statis Array**: array has a fixed size when declared and cannot be changed during runtime, when creating it needs to determine the appropriate number of elements.
+*☝ Dự án này chỉ được sử dụng cho mục đích **học tập** và **nghiên cứu**, **không** được dùng cho mục đích thương mại.*
 
-- **Dynamic Array**: array is resizable at runtime, when there is not enough space to add new elements it resizes itself accordingly.
+![repo size](https://img.shields.io/github/repo-size/quaan2hand/golang-algorithms.svg)
+## Cấu trúc dữ liệu
+**Cấu trúc dữ liệu** là một hình thức tổ chức, lưu trữ dữ liệu theo hệ thống và thứ tự để có thể sử dụng một cách hiệu quả và tối ưu nhất. Bao gồm các giá trị dữ liệu, các mối liên hệ và các hàm, phép toán có thể áp dụng cho dữ liêu. Đặc điểm của một <i>Cấu trúc dữ liệu </i>:
+- Độ chính xác
+- Độ phức tạp về thời gian (time complexity)
+- Độ phức tạp về bộ nhớ (space complexity)
 
-There are two common types of Array by structure (dimension):
-- **One-dimensional Array**: is a linear data structure where the elements are arranged in a single row or column, each element is marked and accessed by index.
-<div align="center">
-    <img src="images/one-dimensional-array.png" style="width:400px">
-</div>
-
-- **Two-dimensional Array**: is a table data structure consisting of rows and columns, each element in the array is accessed by 2 indexes, one of the row index and one of the column index.
-<div align="center">
-    <img src="images/two-dimensional-array.jpeg" style="width:400px">
-</div>
-
-Each element in an array can be a number, string, object, ...
-- [Data-structure/Array](./data-structure/README.md) - Work with golang example
-
-### 2. Linked List
-There are 3 common types of linked lists:
--**Singly Linked List**:
--**Doubly Linked List**:
--**Circular Linked List**:
-
-### 3. Stack
-### 4. Queue
-### 5. Tree
-### 6. Graph
-### 7. Hash table
-### 8. Heap, Trie, ...
-
-## Algorithms
-
-### Search & Binary Search
-### Sorting & Sorting Algorithms
-### Insertion, Deletion & Modification in Data Structures
-### Recursive & Backtracking
-### Greedy Algorithms
-### Dynamic Programming
-### Tree Algorithms
-
-## Analysis of time and space complexity
-
-### Time complexity O(1), O(log n), O(n), O(n log n), O(n^2), etc.
-### Space and memory complexity
+### Danh sách các kiểu cấu trúc dữ liệu
+`E` - Dễ, `M` - Vừa, `H` - Khó
+* `E` [Mảng một chiều](http://)
+* `M` [Mảng hai chiều](http://)
+* `E` [Danh sách liên kết](http://)
+* `M` [Danh sách liên kết đôi](http://)
+* `M` [Danh sách liên kết vòng](http://)

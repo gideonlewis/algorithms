@@ -1,21 +1,21 @@
-# Cấu trúc dữ liệu & giải thuật trong Golang
-Đây là kho lưu trữ trên GitHub mà tôi bỏ rất nhiều tâm huyết, tập trung vào cấu trúc dữ liệu và thuật toán mà tôi đã được học từ nhiều nguồn khác nhau và đúc kết lại từ góc nhìn cá nhân. Kho lưu trữ cung cấp mã nguồn ví dụ bằng Golang và các bài tập lập trình để người dùng thực hành và nâng cao kỹ năng lập trình của họ cũng như hiểu sâu hơn về các khái niệm cơ bản trong lĩnh vực này. Mã nguồn và bài tập được sắp xếp theo từng chủ đề cụ thể và có hướng dẫn chi tiết giúp người dùng dễ dàng học và áp dụng vào dự án của mình.
+# Golang Data structures & Algorithms
+This is a repository on GitHub that I put a lot of effort into, focusing on data structures and algorithms that I have learned from many different sources and summarized from a personal perspective. The repository provides example source code in Golang and programming exercises for users to practice and improve their programming skills and deepen their understanding of the fundamental concepts in the field. The source code and exercises are arranged according to specific topics and have detailed instructions to help users easily learn and apply in their projects.
 
 <hr>
 
-*☝ Dự án này chỉ được sử dụng cho mục đích **học tập** và **nghiên cứu**, **không** được dùng cho mục đích thương mại.*
+*☝ This project is for **study** and **research** purposes only, **not** for commercial use.*
 
 ![repo size](https://img.shields.io/github/repo-size/quaan2hand/golang-algorithms.svg)
-[repo size](https://img.shields.io/github/repo-size/quaan2hand/golang-algorithms.svg)
-## Cấu trúc dữ liệu
-**Cấu trúc dữ liệu** là một hình thức tổ chức, lưu trữ dữ liệu theo hệ thống và thứ tự để có thể sử dụng một cách hiệu quả và tối ưu nhất. Bao gồm các giá trị dữ liệu, các mối liên hệ và các hàm, phép toán có thể áp dụng cho dữ liêu. Đặc điểm của một <i>Cấu trúc dữ liệu </i>:
-- Độ chính xác
-- Độ phức tạp về thời gian (time complexity)
-- Độ phức tạp về bộ nhớ (space complexity)
+## Data structures
+**Data structure** is a form of organizing and storing data in a systematic and orderly manner so that it can be used in the most efficient and optimal way. Includes data values, relationships, and functions and operations that can be applied to data. Characteristics of a Data Structure </i>:
+- Accuracy
+- Time complexity
+- Space complexity
 
-### Danh sách các kiểu cấu trúc dữ liệu
+### List of data structure types
 `E` - Easy, `M` - Medium, `H` - Hard
-
+* `E` [One-dimensional Array](http://)
+* `M` [Two-dimensional Array](http://)
 * `E` [Linked List](http://)
 * `M` [Doubly Linked List](http://)
-`M` [Circular Linked List](http://)
+* `M` [Circular Linked List](http://)
